@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=newObj
+comment0.target=Node(DataStructures.DataObjects.AnyClass)
+comment1.params=
+comment1.target=void\ show()
+comment2.params=
+comment2.target=void\ editNode()
+numComments=3
